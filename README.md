@@ -1,4 +1,4 @@
-# cs458-fall22
+# KAIST CS458 Dynamic Analysis of Software Source Code (Fall'22)
 
 This class covers automated SW testing/verification techniques to detect SW bugs effectively and efficiently. In particular, this class focuses to teach techniques that automatically generate test cases to achieve high code coverage and, thus, to detect many bugs.
 
